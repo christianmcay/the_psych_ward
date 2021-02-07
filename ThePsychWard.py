@@ -1,10 +1,8 @@
-#Load a list of first names
-#load a list of surnames
-#Choose a first name at random
-#assign the name to a variable
-#choose a surname at random
-#assign the name to a variable
-#print the names to the screen in order and in red font
+#Load a list of random words
+#load a list of different random words
+#Choose words at random
+#assign the word to a variable
+#print the words to the screen in order and in red font
 #ask the user to quit or play again
 #if user plays again:
     #repeat
